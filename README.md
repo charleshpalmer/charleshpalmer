@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charleshpalmer
+- 👋 Hi, I’m @charleshpalmer, a Junior Software Developer based in Southampton.
 
 - 👀 I’m interested in 
 Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
