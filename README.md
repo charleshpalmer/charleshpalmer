@@ -4,9 +4,9 @@
 Front-End Languages, Libraries and Frameworks, such as JavaScript & React.
 
 - 🌱 I’m currently learning 
-Ruby/Ruby On Rails
-Voice Recognition Platforms 
-Python Web Scrapers & Bots
+Ruby/Ruby On Rails,
+Voice Recognition Platforms, 
+Python Web Scrapers &
 Discord Bots
 
 - 📫 How to reach me: 
